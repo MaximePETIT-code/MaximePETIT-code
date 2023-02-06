@@ -42,10 +42,8 @@
 
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximePETIT-code
-&show_icons=true&locale=en" alt="starc007" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximePETIT-code
+&show_icons=true&locale=en"/>
 
 Made with ❤ by Maxime Petit
     
