@@ -42,8 +42,5 @@
 
 </p>
 
-<img decoding="async" loading="lazy" align="center" alt="Maxime's github stats" src="https://github-readme-stats.vercel.app/api?username=MaximePETIT-code
-&show_icons=true&locale=en" />
-
 Made with ❤ by Maxime Petit
     
