@@ -3,6 +3,10 @@
 <h3 align="center">A junior front-end dev from Paris :)</h3>
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=maximepetit-code&show_icons=true" alt="stats"/>
+
+<br/>
+
 - ✨ 2023 goal is **build more and more projects on the web**
 
 - 🌱 I’m currently learning **creative front-end development**
@@ -40,7 +44,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=maximepetit-code&show_icons=true" alt="stats"/>
 
 Made with ❤ by Maxime Petit
