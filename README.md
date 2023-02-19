@@ -41,5 +41,6 @@
 
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=maximepetit-code&show_icons=true" alt="stats"/>
+
 Made with ❤ by Maxime Petit
-    
