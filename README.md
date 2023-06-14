@@ -3,13 +3,7 @@
 <h3 align="center">A junior front-end dev from Paris :)</h3>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maximepetit-code&show_icons=true" alt="stats"/>
-
-<br/>
-
 - ✨ 2023 goal is **build more and more projects on the web**
-
-- 🌱 I’m currently learning **creative front-end development**
 
 - 👨‍💻 All of my projects are available at [https://petitmaxime.fr](https://petitmaxime.fr/)
 
