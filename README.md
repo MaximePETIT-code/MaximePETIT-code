@@ -3,9 +3,9 @@
 <h3 align="center">A junior front-end dev from Paris :)</h3>
 <br/>
 
-- ✨ 2023 goal is **build more and more projects on the web**
+- ✨ 2024 goal is **build more and more projects on the web**
 
-- 👨‍💻 All of my projects are available at [https://petitmaxime.fr](https://petitmaxime.fr/)
+- 👨‍💻 All of my projects are available at [https://maximepetit.dev](https://petitmaxime.fr/)
 
 - 💬 Ask me to collaborate on **web development projects**
 
