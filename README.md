@@ -21,6 +21,8 @@ The project allows users to generate a portfolio in just a few clicks by directl
 
 **My DevCase**: [https://devcase.me/maximepetit-code](https://devcase.me/maximepetit-code) ✨
 
+![image](https://github.com/user-attachments/assets/d89b9e6c-fe06-48fc-824a-6c8c04b5ac79)
+
 
 ## 📊 GitHub Stats
 
