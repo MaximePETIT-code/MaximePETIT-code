@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Maxime
+# 👋 Hello, I'm Maxime !
 
 ## 💻 Fullstack Developer
 
