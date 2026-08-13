@@ -11,6 +11,10 @@ Passionate about web development, I design applications and services that combin
 - **Mobile**: React Native, Expo
 - **Tools**: Docker, Git, GitHub Actions, AWS
 
+## My thedev.world live stats
+
+[![My The Dev World stats](https://thedev.world/og/MaximePETIT-code)](https://thedev.world/u/MaximePETIT-code)
+
 ## 📌 Latest Project
 
 **[devcase.me](https://devcase.me)**  
