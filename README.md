@@ -27,13 +27,6 @@ The project allows users to generate a portfolio in just a few clicks by directl
 
 ![image](https://github.com/user-attachments/assets/d89b9e6c-fe06-48fc-824a-6c8c04b5ac79)
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximepetit-code&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximepetit-code&layout=compact&theme=radical)
-
 ## 📫 Contact
 
 - Email: [contactmaximepetit@gmail.com](mailto:contactmaximepetit@gmail.com)
